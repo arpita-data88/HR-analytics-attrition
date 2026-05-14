@@ -1,0 +1,6 @@
+department,headcount,avg_salary,attrition_pct,avg_rating
+Analytics,36,100192.64,22.0,3.58
+Sales,47,86523.57,21.0,3.44
+Finance,28,95187.21,18.0,3.62
+Engineering,66,111504.59,17.0,3.67
+HR,23,76805.22,13.0,3.38
